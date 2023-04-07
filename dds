@@ -1,0 +1,36 @@
+[33mcommit 025e4f791f73680ba709ffacd6d53858f1240c8b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/bug3[m[33m, [m[1;32mbug3[m[33m)[m
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:23:14 2023 +0200
+
+    Fix method sumEvenNumbers
+
+[33mcommit fa91365e139a4ff2469e8b32de7909a32850b955[m
+Merge: 64b5bd2 ac8b059
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:25:45 2023 +0200
+
+    Merge branch 'bug2'
+
+[33mcommit ac8b059648e2e6810e212931bb24bc9c29d15d0c[m[33m ([m[1;31morigin/bug2[m[33m, [m[1;32mbug2[m[33m)[m
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:21:33 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+[33mcommit 64b5bd2800d33693eda97092924260a0aae53741[m[33m ([m[1;31morigin/bug1[m[33m, [m[1;32mbug1[m[33m)[m
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:19:29 2023 +0200
+
+    Fix wrong loop for reading
+
+[33mcommit 6be5496cbdf71f2d577e175ccf32e6b84495d2b6[m
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:05:29 2023 +0200
+
+    Add java class
+
+[33mcommit 8544841423f24d8a89175f5af1b66ae4018c2781[m
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:02:29 2023 +0200
+
+    Initial commit

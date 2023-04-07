@@ -1,0 +1,38 @@
+C:\Users\anton\OneDrive\Desktop\SI_2023_lab1_203231>git log
+commit 025e4f791f73680ba709ffacd6d53858f1240c8b (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:23:14 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit fa91365e139a4ff2469e8b32de7909a32850b955
+Merge: 64b5bd2 ac8b059
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:25:45 2023 +0200
+
+    Merge branch 'bug2'
+
+
+commit ac8b059648e2e6810e212931bb24bc9c29d15d0c (origin/bug2, bug2)
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:21:33 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 64b5bd2800d33693eda97092924260a0aae53741 (origin/bug1, bug1)
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:19:29 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 6be5496cbdf71f2d577e175ccf32e6b84495d2b6
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:05:29 2023 +0200
+
+    Add java class
+
+commit 8544841423f24d8a89175f5af1b66ae4018c2781
+Author: Antonio Ivanov <antonioivanov456@gmail.com>
+Date:   Fri Apr 7 19:02:29 2023 +0200
+
+    Initial commit
